@@ -2,3 +2,8 @@
 
 ## 关于本仓库
 - 本仓库试图使用 swoole 测试。
+
+## 所使用
+- vagrant
+- virtualbox
+- centOS8
